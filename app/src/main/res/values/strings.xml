@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialDisaing</string>
+    <string name="texto1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in ultrices metus, nec cursus eros. Aliquam fermentum iaculis molestie. Quisque in dui eget ligula luctus rutrum sit amet sit amet purus. Morbi egestas enim eget condimentum aliquet. Pellentesque sagittis sagittis nunc non tristique. Etiam pulvinar porttitor mauris, et consequat diam consectetur sit amet. Suspendisse euismod purus augue, sit amet ultrices augue molestie a. Nunc blandit molestie erat ut accumsan.
+
+Suspendisse molestie enim purus, a feugiat dolor dapibus id. Mauris quis sodales ligula. Sed nec odio massa. Donec quis pharetra tortor. Ut viverra interdum mollis. Nam id nisl risus. Donec efficitur dolor eget porta semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nulla velit, porta a augue sed, interdum volutpat magna. Proin bibendum tortor in vestibulum congue. Sed at dapibus mauris. Vivamus nec magna a dolor molestie pharetra id condimentum urna.</string>
+    <string name="texto2">MaterialDisaing</string>
+</resources>
